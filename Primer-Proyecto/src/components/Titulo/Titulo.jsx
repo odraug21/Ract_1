@@ -1,5 +1,5 @@
 function Titulo (){
-    return <h1> Primer ejemplo React</h1>
+    return <h1> {prompt.nombre}</h1>
 
 }
 
