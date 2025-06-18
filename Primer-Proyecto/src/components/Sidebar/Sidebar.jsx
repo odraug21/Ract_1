@@ -1,11 +1,11 @@
 import React from 'react'
 import Banner from '../Banner/Banner'
 
-const Sidebar = () => {
+const Sidebar = ({nombre}) => {
   return (
     <div>
         
-       <p>Prueba de Componente Sidebar </p>
+       <p>{nombre} </p>
        <Banner/>
         
         </div>

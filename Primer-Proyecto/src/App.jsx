@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Titulo nombre = "Maria Jose" />
-      <Sidebar />
+      <Sidebar nombre = "Valenzuela Rivera" />
     </>
   )
 }

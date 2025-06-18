@@ -1,5 +1,5 @@
-function Titulo (){
-    return <h1> {prompt.nombre}</h1>
+function Titulo ({nombre}){
+    return <h1> {nombre}</h1>
 
 }
 
